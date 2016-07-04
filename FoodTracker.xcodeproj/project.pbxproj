@@ -16,6 +16,7 @@
 		35A9FFF01D2A59280005E5B7 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A9FFEF1D2A59280005E5B7 /* RatingControl.swift */; };
 		DEF288A71D2AA5F900A32DA4 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF288A61D2AA5F900A32DA4 /* Meal.swift */; };
 		DEF288A81D2AA5F900A32DA4 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF288A61D2AA5F900A32DA4 /* Meal.swift */; };
+		DEF288AA1D2B224400A32DA4 /* MealTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF288A91D2B224400A32DA4 /* MealTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,6 +42,7 @@
 		35A9FFE61D2A12900005E5B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		35A9FFEF1D2A59280005E5B7 /* RatingControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
 		DEF288A61D2AA5F900A32DA4 /* Meal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
+		DEF288A91D2B224400A32DA4 /* MealTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MealTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				35A9FFCF1D2A12900005E5B7 /* AppDelegate.swift */,
 				35A9FFD11D2A12900005E5B7 /* ViewController.swift */,
 				35A9FFD31D2A12900005E5B7 /* Main.storyboard */,
+				DEF288A91D2B224400A32DA4 /* MealTableViewCell.swift */,
 				35A9FFEF1D2A59280005E5B7 /* RatingControl.swift */,
 				35A9FFD61D2A12900005E5B7 /* Assets.xcassets */,
 				35A9FFD81D2A12900005E5B7 /* LaunchScreen.storyboard */,
@@ -208,6 +211,7 @@
 				35A9FFD21D2A12900005E5B7 /* ViewController.swift in Sources */,
 				35A9FFF01D2A59280005E5B7 /* RatingControl.swift in Sources */,
 				35A9FFD01D2A12900005E5B7 /* AppDelegate.swift in Sources */,
+				DEF288AA1D2B224400A32DA4 /* MealTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
